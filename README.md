@@ -13,8 +13,6 @@ CDS-miner can be run from the linux OS with the following dependencies:
 ## Usage
 
 Name query file 'query.fa' and change the extension of the assemblies into '.fasta' and put all files in the same directory as the source code.
-
-run:
 ```
 bash CDS-miner.sh
 ```
