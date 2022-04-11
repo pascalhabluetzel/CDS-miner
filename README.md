@@ -4,7 +4,11 @@ CDS-miner aligns a list of query CDS to a genome assembly to retreive similar CD
 
 ## Dependencies
 
-
+CDS-miner can be run from the linux OS with the following dependencies:
+- python
+- exonerate
+- bedtools
+- convert_exonerate_gff_to_gff3.py: https://github.com/jorvis/biocode/blob/master/sandbox/jorvis/convert_exonerate_gff_to_gff3.py
 
 ## Usage
 
