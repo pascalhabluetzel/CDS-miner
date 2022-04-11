@@ -17,4 +17,4 @@ Name query file 'query.fa' and change the extension of the assemblies into '.fas
 bash CDS-miner.sh
 ```
 
-Retrieved sequences can be found in <genome name>_final_result.fa
+Retrieved sequences can be found in 'genome name'_final_result.fa
