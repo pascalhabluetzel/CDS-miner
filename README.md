@@ -1,6 +1,6 @@
 # CDS-miner
 
-CDS-miner aligns a list of query CDS in fasta format to a genome assembly in order to retreive similar CDS above a specific threshold. It works for eukaryote genomes with intron-exon structure.
+CDS-miner aligns a list of query CDS in fasta format to a genome assembly in order to retreive similar CDS above a specific threshold. Results are stored in fasta format. It works for eukaryote genomes with intron-exon structure.
 
 ## Dependencies
 
