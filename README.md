@@ -4,7 +4,7 @@ CDS-miner aligns a list of query CDS in fasta format to a genome assembly in ord
 
 ## Dependencies
 
-CDS-miner can be run from the linux OS with the following dependencies:
+CDS-miner can be run from a linux OS with the following dependencies:
 - python
 - exonerate
 - bedtools
