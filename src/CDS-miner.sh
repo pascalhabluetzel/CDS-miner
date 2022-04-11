@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for file in *.fasta ; do
+for file in *.fasta ; do # Iterate over all genome assemblies in the working directory
 # Find gene using exonerate
 exonerate --model est2genome --percent 90 -q query.fa -t "$file" --verbose 0 --showvulgar no --showsugar no --showcigar no --showalignment no --showtargetgff yes --showquerygff no > "$file".gff
 
