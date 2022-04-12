@@ -4,7 +4,7 @@ CDS-miner aligns a list of query CDS in fasta format to a genome assembly in ord
 
 ## Disclaimer
 
-The code is not optimized to work particularly fast or efficient, and it might not be stable. I uploaded it here in the hope it might be useful for others for others.
+The code is not optimized to work particularly fast or efficient, and it might not be stable. I uploaded it here in the hope it might be useful for others.
 
 ## Dependencies
 
