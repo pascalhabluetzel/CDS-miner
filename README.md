@@ -12,9 +12,9 @@ CDS-miner can be run from a linux OS with the following dependencies:
 
 ## Usage
 
-Name query file 'query.fa' and change the extension of the assemblies into '.fasta' and put all files in the same directory as the source code.
+Name query file 'query.fa' and change the extension of the assemblies into '.fna' and put all files in the same directory as the source code.
 ```
 bash CDS-miner.sh
 ```
 
-Retrieved sequences can be found in 'genome name'_final_result.fa
+Retrieved sequences can be found in the final_results folder.
